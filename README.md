@@ -12,13 +12,13 @@ The program have a pre-defined equation: e^(x) + x
 2. Guarda o ficheiro como:
 
 ```bash
-metodo_nr.py
+metodoNR.py
 ```
 
 3. Executa no terminal:
 
 ```bash
-python metodo_nr.py
+python metodoNR.py
 ```
 
 # Language
