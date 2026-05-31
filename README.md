@@ -8,9 +8,9 @@ Aproximate roots of an equation
 The program have a pre-defined equation: e^(x) + x
 
 # how to use?
-1-execute the program
-2-input your first value
-3-run the program
+'1-execute the program /n
+2-input your first value /n
+3-run the program'
 
 # Language
 Python
