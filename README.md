@@ -8,9 +8,18 @@ Aproximate roots of an equation
 The program have a pre-defined equation: e^(x) + x
 
 # how to use?
-1-execute the program #
-2-input your first value
-3-run the program #
+1. Instala o Python no teu computador.
+2. Guarda o ficheiro como:
+
+```bash
+metodo_nr.py
+```
+
+3. Executa no terminal:
+
+```bash
+python metodo_nr.py
+```
 
 # Language
 Python
